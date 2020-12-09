@@ -1,16 +1,27 @@
-# Fabric Example Mod - Kotlin
-![Gradle build](https://github.com/natanfudge/fabric-example-mod-kotlin/workflows/Gradle%20build/badge.svg)
-## Setup
+# Just Another Redstone Gate Mod
 
-0. Create a new mod repository by pressing the "Use this template" button and clone the created repository.
+1.3.0 Feature checklist:
 
-1. Import build.gradle file with IntelliJ IDEA
+❎ AND Gate - Is on when both inputs are on
 
-2. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-3. Run!
+❎ NAND Gate - Is off when both inputs are on
 
-## License
+❎ XOR Gate - Is on when both inputs are the same
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+❎ XNOR Gate - Is on when both inputs are different
+
+❎ OR Gate - Is on when either (or both) of the inputs are on
+
+❎ NOR Gate - Is off when either (or both) of the inputs are on
+
+❎ NOT Gate - Returns the opposite. On is off; off is on
+
+❎ Long Repeater - Each tick is the length of a full normal repeater
+
+❎ Multiplexer - Selects between two input signals and forwards it the output
+
+❎ Demultiplexer - Takes a single input and selects a direction for the output
+
+❎ Majority Gate - Is on when two or more inputs are on
+
+❎ NEW! Intersection Gate - Allows for two redstone lines to cross
