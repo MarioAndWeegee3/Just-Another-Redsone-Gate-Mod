@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ttt",
+    "twt",
+    "sss"
+  ],
+  "key": {
+    "t": {
+      "item": "redstone_torch"
+    },
+    "w": {
+      "item": "redstone"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:xor_gate"
+  }
+}

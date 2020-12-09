@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "jargm",
   "version": "${version}",
-
   "name": "Just Another Redstone Gate Mod",
   "description": "Adds some redstone gates",
   "authors": [
@@ -11,10 +10,8 @@
   "contact": {
     "homepage": "https://marioandweegee3.github.io/"
   },
-
   "license": "MIT",
   "icon": "assets/jargm/textures/logo.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -22,6 +19,7 @@
     ]
   },
   "mixins": [
+    "jargm.mixin.json"
   ],
   "depends": {
     "fabricloader": ">=0.8.7",

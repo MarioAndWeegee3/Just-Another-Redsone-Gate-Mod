@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "marioandweegee3.jargm.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RedstoneWireMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

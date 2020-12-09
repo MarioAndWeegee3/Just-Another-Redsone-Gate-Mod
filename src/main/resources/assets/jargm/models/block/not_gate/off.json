@@ -1,0 +1,244 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "textures": {
+    "redstone_torch_off": "minecraft:block/redstone_torch_off",
+    "smooth_stone": "minecraft:block/smooth_stone",
+    "long_repeater_off": "jargm:block/long_repeater_off",
+    "particle": "block/smooth_stone"
+  },
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#smooth_stone",
+          "uv": [
+            0,
+            0,
+            16,
+            2
+          ]
+        },
+        "east": {
+          "texture": "#smooth_stone",
+          "uv": [
+            0,
+            0,
+            16,
+            2
+          ]
+        },
+        "south": {
+          "texture": "#smooth_stone",
+          "uv": [
+            0,
+            0,
+            16,
+            2
+          ]
+        },
+        "west": {
+          "texture": "#smooth_stone",
+          "uv": [
+            0,
+            0,
+            16,
+            2
+          ]
+        },
+        "up": {
+          "texture": "#long_repeater_off",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#smooth_stone",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Torch",
+      "from": [
+        7,
+        2,
+        11
+      ],
+      "to": [
+        9,
+        6,
+        13
+      ],
+      "faces": {
+        "north": {
+          "texture": "#redstone_torch_off",
+          "uv": [
+            7,
+            6,
+            9,
+            10
+          ]
+        },
+        "east": {
+          "texture": "#redstone_torch_off",
+          "uv": [
+            7,
+            6,
+            9,
+            10
+          ]
+        },
+        "south": {
+          "texture": "#redstone_torch_off",
+          "uv": [
+            7,
+            6,
+            9,
+            10
+          ]
+        },
+        "west": {
+          "texture": "#redstone_torch_off",
+          "uv": [
+            7,
+            6,
+            9,
+            10
+          ]
+        },
+        "up": {
+          "texture": "#redstone_torch_off",
+          "uv": [
+            7,
+            6,
+            9,
+            8
+          ]
+        }
+      }
+    }
+  ]
+}

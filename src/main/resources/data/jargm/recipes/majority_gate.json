@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "aoa",
+    "sss"
+  ],
+  "key": {
+    "a": {
+      "item": "jargm:and_gate"
+    },
+    "o": {
+      "item": "jargm:or_gate"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:majority_gate"
+  }
+}

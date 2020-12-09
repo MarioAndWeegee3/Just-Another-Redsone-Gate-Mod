@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " o ",
+    "ana",
+    "sss"
+  ],
+  "key": {
+    "o": {
+      "item": "jargm:or_gate"
+    },
+    "a": {
+      "item": "jargm:and_gate"
+    },
+    "n": {
+      "item": "jargm:not_gate"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:multiplexer"
+  }
+}

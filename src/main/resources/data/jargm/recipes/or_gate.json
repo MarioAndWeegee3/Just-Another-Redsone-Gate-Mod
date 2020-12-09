@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " w ",
+    "sss"
+  ],
+  "key": {
+    "w": {
+      "item": "redstone"
+    },
+    "s": {
+      "item": "stone"
+    }
+  },
+  "result": {
+    "item": "jargm:or_gate"
+  }
+}

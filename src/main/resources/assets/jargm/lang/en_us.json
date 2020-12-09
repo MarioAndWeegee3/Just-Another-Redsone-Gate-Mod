@@ -1,0 +1,13 @@
+{
+  "block.jargm.and_gate": "AND Gate",
+  "block.jargm.nand_gate": "NAND Gate",
+  "block.jargm.xor_gate": "XOR Gate",
+  "block.jargm.xnor_gate": "XNOR Gate",
+  "block.jargm.or_gate": "OR Gate",
+  "block.jargm.nor_gate": "NOR Gate",
+  "block.jargm.not_gate": "NOT Gate",
+  "block.jargm.long_repeater": "Long Repeater",
+  "block.jargm.multiplexer": "Multiplexer",
+  "block.jargm.demultiplexer": "Switch",
+  "block.jargm.majority_gate": "Majority Gate"
+}

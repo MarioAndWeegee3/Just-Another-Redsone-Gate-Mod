@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "nx",
+    "ss"
+  ],
+  "key": {
+    "n": {
+      "item": "jargm:not_gate"
+    },
+    "x": {
+      "item": "jargm:xor_gate"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:xnor_gate"
+  }
+}

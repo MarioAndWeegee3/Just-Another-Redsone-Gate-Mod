@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "delay=1,facing=south,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_1"
+    },
+    "delay=1,facing=west,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_1",
+      "y": 90
+    },
+    "delay=1,facing=north,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_1",
+      "y": 180
+    },
+    "delay=1,facing=east,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_1",
+      "y": 270
+    },
+    "delay=2,facing=south,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_2"
+    },
+    "delay=2,facing=west,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_2",
+      "y": 90
+    },
+    "delay=2,facing=north,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_2",
+      "y": 180
+    },
+    "delay=2,facing=east,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_2",
+      "y": 270
+    },
+    "delay=3,facing=south,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_3"
+    },
+    "delay=3,facing=west,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_3",
+      "y": 90
+    },
+    "delay=3,facing=north,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_3",
+      "y": 180
+    },
+    "delay=3,facing=east,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_3",
+      "y": 270
+    },
+    "delay=4,facing=south,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_4"
+    },
+    "delay=4,facing=west,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_4",
+      "y": 90
+    },
+    "delay=4,facing=north,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_4",
+      "y": 180
+    },
+    "delay=4,facing=east,locked=false,powered=false": {
+      "model": "jargm:block/long_repeater/off_4",
+      "y": 270
+    },
+    "delay=1,facing=south,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_1_lock"
+    },
+    "delay=1,facing=west,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_1_lock",
+      "y": 90
+    },
+    "delay=1,facing=north,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_1_lock",
+      "y": 180
+    },
+    "delay=1,facing=east,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_1_lock",
+      "y": 270
+    },
+    "delay=2,facing=south,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_2_lock"
+    },
+    "delay=2,facing=west,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_2_lock",
+      "y": 90
+    },
+    "delay=2,facing=north,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_2_lock",
+      "y": 180
+    },
+    "delay=2,facing=east,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_2_lock",
+      "y": 270
+    },
+    "delay=3,facing=south,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_3_lock"
+    },
+    "delay=3,facing=west,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_3_lock",
+      "y": 90
+    },
+    "delay=3,facing=north,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_3_lock",
+      "y": 180
+    },
+    "delay=3,facing=east,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_3_lock",
+      "y": 270
+    },
+    "delay=4,facing=south,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_4_lock"
+    },
+    "delay=4,facing=west,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_4_lock",
+      "y": 90
+    },
+    "delay=4,facing=north,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_4_lock",
+      "y": 180
+    },
+    "delay=4,facing=east,locked=true,powered=false": {
+      "model": "jargm:block/long_repeater/off_4_lock",
+      "y": 270
+    },
+    "delay=1,facing=south,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_1"
+    },
+    "delay=1,facing=west,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_1",
+      "y": 90
+    },
+    "delay=1,facing=north,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_1",
+      "y": 180
+    },
+    "delay=1,facing=east,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_1",
+      "y": 270
+    },
+    "delay=2,facing=south,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_2"
+    },
+    "delay=2,facing=west,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_2",
+      "y": 90
+    },
+    "delay=2,facing=north,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_2",
+      "y": 180
+    },
+    "delay=2,facing=east,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_2",
+      "y": 270
+    },
+    "delay=3,facing=south,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_3"
+    },
+    "delay=3,facing=west,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_3",
+      "y": 90
+    },
+    "delay=3,facing=north,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_3",
+      "y": 180
+    },
+    "delay=3,facing=east,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_3",
+      "y": 270
+    },
+    "delay=4,facing=south,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_4"
+    },
+    "delay=4,facing=west,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_4",
+      "y": 90
+    },
+    "delay=4,facing=north,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_4",
+      "y": 180
+    },
+    "delay=4,facing=east,locked=false,powered=true": {
+      "model": "jargm:block/long_repeater/on_4",
+      "y": 270
+    },
+    "delay=1,facing=south,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_1_lock"
+    },
+    "delay=1,facing=west,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_1_lock",
+      "y": 90
+    },
+    "delay=1,facing=north,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_1_lock",
+      "y": 180
+    },
+    "delay=1,facing=east,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_1_lock",
+      "y": 270
+    },
+    "delay=2,facing=south,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_2_lock"
+    },
+    "delay=2,facing=west,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_2_lock",
+      "y": 90
+    },
+    "delay=2,facing=north,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_2_lock",
+      "y": 180
+    },
+    "delay=2,facing=east,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_2_lock",
+      "y": 270
+    },
+    "delay=3,facing=south,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_3_lock"
+    },
+    "delay=3,facing=west,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_3_lock",
+      "y": 90
+    },
+    "delay=3,facing=north,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_3_lock",
+      "y": 180
+    },
+    "delay=3,facing=east,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_3_lock",
+      "y": 270
+    },
+    "delay=4,facing=south,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_4_lock"
+    },
+    "delay=4,facing=west,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_4_lock",
+      "y": 90
+    },
+    "delay=4,facing=north,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_4_lock",
+      "y": 180
+    },
+    "delay=4,facing=east,locked=true,powered=true": {
+      "model": "jargm:block/long_repeater/on_4_lock",
+      "y": 270
+    }
+  }
+}

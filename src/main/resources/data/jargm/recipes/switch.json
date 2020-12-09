@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ana",
+    "sss"
+  ],
+  "key": {
+    "n": {
+      "item": "jargm:not_gate"
+    },
+    "a": {
+      "item": "jargm:and_gate"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:switch"
+  }
+}

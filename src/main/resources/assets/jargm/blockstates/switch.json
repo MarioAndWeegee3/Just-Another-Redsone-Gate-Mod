@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=south,output_a=false,output_b=false": {
+      "model": "jargm:block/switch/off/0",
+      "y": 0
+    },
+    "facing=west,output_a=false,output_b=false": {
+      "model": "jargm:block/switch/off/0",
+      "y": 90
+    },
+    "facing=north,output_a=false,output_b=false": {
+      "model": "jargm:block/switch/off/0",
+      "y": 180
+    },
+    "facing=east,output_a=false,output_b=false": {
+      "model": "jargm:block/switch/off/0",
+      "y": 270
+    },
+    "facing=south,output_a=true,output_b=false": {
+      "model": "jargm:block/switch/on/0",
+      "y": 0
+    },
+    "facing=west,output_a=true,output_b=false": {
+      "model": "jargm:block/switch/on/0",
+      "y": 90
+    },
+    "facing=north,output_a=true,output_b=false": {
+      "model": "jargm:block/switch/on/0",
+      "y": 180
+    },
+    "facing=east,output_a=true,output_b=false": {
+      "model": "jargm:block/switch/on/0",
+      "y": 270
+    },
+    "facing=south,output_a=false,output_b=true": {
+      "model": "jargm:block/switch/on/1",
+      "y": 0
+    },
+    "facing=west,output_a=false,output_b=true": {
+      "model": "jargm:block/switch/on/1",
+      "y": 90
+    },
+    "facing=north,output_a=false,output_b=true": {
+      "model": "jargm:block/switch/on/1",
+      "y": 180
+    },
+    "facing=east,output_a=false,output_b=true": {
+      "model": "jargm:block/switch/on/1",
+      "y": 270
+    }
+  }
+}

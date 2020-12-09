@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "rr",
+    "ss"
+  ],
+  "key": {
+    "r": {
+      "item": "repeater"
+    },
+    "s": {
+      "item": "smooth_stone"
+    }
+  },
+  "result": {
+    "item": "jargm:long_repeater"
+  }
+}
