@@ -83,7 +83,7 @@ class TwoInTwoOutGateBlock(
                 s = s.with(outputA, false)
             else if (!isAPowered) {
                 if (!aHasPower)
-                    world.blockTickScheduler.schedule(pos, this, 2, TickPriority.VERY_HIGH)
+                    world.createAndScheduleBlockTick(pos, this, 2, TickPriority.VERY_HIGH)
                 else
                     s = s.with(outputA, true)
             }
@@ -92,7 +92,7 @@ class TwoInTwoOutGateBlock(
                 s = s.with(outputB, false)
             else if (!isBPowered) {
                 if (!bHasPower)
-                    world.blockTickScheduler.schedule(pos, this, 2, TickPriority.VERY_HIGH)
+                    world.createAndScheduleBlockTick(pos, this, 2, TickPriority.VERY_HIGH)
                 else
                     s = s.with(outputB, true)
             }
@@ -133,7 +133,7 @@ class TwoInTwoOutGateBlock(
                 TickPriority.EXTREMELY_HIGH
             else TickPriority.VERY_HIGH
 
-            world.blockTickScheduler.schedule(pos, this, 2, priority)
+            world.createAndScheduleBlockTick(pos, this, 2, priority)
         }
     }
 

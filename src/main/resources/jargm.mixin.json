@@ -1,7 +1,7 @@
 {
   "required": true,
   "package": "marioandweegee3.jargm.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_17",
   "mixins": [
     "RedstoneWireMixin"
   ],
